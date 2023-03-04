@@ -1,6 +1,5 @@
 # URL-Shortener-Backend-Project
 basic URL Shortener project
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bold&color=%23F7CC5B&size=28&center=true&lines=UrlShortner-website)](https://git.io/typing-svg)
 
 creating a short url from long url
 required tech stacks: Mongodb,node.js,express.js
